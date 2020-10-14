@@ -3,7 +3,7 @@
 Created on Tue Sep 15 13:25:12 2020
 
 @author: Admin
-Here administrative boundaries of Nepal is used 
+Here the administrative boundaries of Nepal are used.
 """
 
 import pandas as pd
